@@ -1,0 +1,26 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "\"My first Github Package container\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arunsinp/hello-world.git"
+  },
+  "keywords": [
+    "Python",
+    "Machine",
+    "Learning",
+    "Data-analysis",
+    "Data-Science"
+  ],
+  "author": "Arun Kumar Pandey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arunsinp/hello-world/issues"
+  },
+  "homepage": "https://github.com/arunsinp/hello-world#readme"
+}
